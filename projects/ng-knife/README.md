@@ -1,7 +1,7 @@
 # Ng Knife
 
 ## About Ng Knife
-Ng Knife is a simple utility library for angular projects
+Ng Knife is a simple utility library for angular projects.
 
 ## Installing
 
@@ -13,11 +13,10 @@ In this first version Ng Knife contains the following:
 
 ### Directives:
 
-* **knifeNoSpaces** - No whitespace allowed
-* **knifeNoSpaces** - No whitespace allowed
-* **knifeNoSpaces** - No whitespace allowed
+* **knifeNoSpaces** - No whitespace allowed.
+* **knifeNoCopyPaste** - No copy, cut and paste allowed.
+* **knifeAlphanumeric** - Only alphanumeric allowed.
 
 ## How to use
 
 To use only import the module `NgKnifeModule` in the module to be used.
-
