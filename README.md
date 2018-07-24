@@ -14,7 +14,8 @@ In this first version Ng Knife contains the following:
 
 * **knifeNoSpaces** - No whitespace allowed.
 * **knifeNoCopyPaste** - No copy, cut and paste allowed.
-* **knifeAlphanumeric** - Only alphanumeric allowed.
+* **knifeAlphanumeric** - Only alphanumeric and whitespaces allowed.
+* **knifeOnlyNumbers** - Only numbers allowed.
 
 ## How to use
 

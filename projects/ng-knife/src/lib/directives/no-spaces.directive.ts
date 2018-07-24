@@ -5,8 +5,6 @@ import { Directive, HostListener } from '@angular/core';
 })
 export class NoSpacesDirective {
   @HostListener('keydown', ['$event']) onKeyDown(e: KeyboardEvent): boolean {
-    if (e.code === 'Space') {
-      return false;
-    }
+    return !(e.keyCode === 32);
   }
 }
