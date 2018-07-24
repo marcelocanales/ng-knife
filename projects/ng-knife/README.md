@@ -1,6 +1,6 @@
 # Ng Knife
 
-Ng Knife is a simple utility library for angular projects.
+Ng Knife is a simple utility library for angular project
 
 ## Installing
 
@@ -18,4 +18,7 @@ In this first version Ng Knife contains the following:
 
 ## How to use
 
-To use only import the module `NgKnifeModule` in the module to be used.
+To use only import the module `NgKnifeModule` from `ng-knife` in the module to be used.
+
+`import { NgKnifeModule}  from 'ng-knife'`
+

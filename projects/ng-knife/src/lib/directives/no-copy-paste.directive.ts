@@ -1,7 +1,7 @@
 import { Directive, HostListener } from '@angular/core';
 
 @Directive({
-  selector: '[knifeNoSpaces]'
+  selector: '[knifeNoCopyPaste]'
 })
 export class NoCopyPasteDirective {
 
