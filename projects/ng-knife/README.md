@@ -1,6 +1,5 @@
 # Ng Knife
 
-## About Ng Knife
 Ng Knife is a simple utility library for angular projects.
 
 ## Installing
