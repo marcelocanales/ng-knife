@@ -1,6 +1,6 @@
 {
   "name": "ng-knife",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "repository": {
     "type": "git",
     "url": "git@github.com:marcelocanales/ng-knife.git"
@@ -8,7 +8,12 @@
   "author": "Marcelo Canales",
   "keywords": [
     "angular",
-    "utility"
+    "utility",
+    "directive",
+    "no spaces",
+    "no copy paste",
+    "alphanumeric",
+    "only numbers"
   ],
   "homepage": "https://github.com/marcelocanales/ng-knife#readme",
   "peerDependencies": {

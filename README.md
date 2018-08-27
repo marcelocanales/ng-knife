@@ -33,7 +33,7 @@ import { NgKnifeModule } from 'projects/ng-knife/src/public_api';
   ],
   imports: [
     BrowserModule,
-    NgKnifeModule // 
+    NgKnifeModule
   ],
   ...
 });

@@ -1,6 +1,6 @@
 {
   "name": "ng-knife-project",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -12,7 +12,12 @@
   "private": true,
   "keywords": [
     "angular",
-    "utility"
+    "utility",
+    "directive",
+    "no spaces",
+    "no copy paste",
+    "alphanumeric",
+    "only numbers"
   ],
   "dependencies": {
     "@angular/common": "^6.0.3",
