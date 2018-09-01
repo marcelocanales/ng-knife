@@ -25,7 +25,7 @@ Import the module `NgKnifeModule` from `ng-knife` in the module to be used:
 
 ``` typescript
 ... 
-import { NgKnifeModule } from 'projects/ng-knife/src/public_api';
+import { NgKnifeModule } from 'ng-knife';
 ...
 @NgModule({
   declarations: [
