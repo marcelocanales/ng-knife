@@ -1,11 +1,12 @@
 {
   "name": "ng-knife",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "repository": {
     "type": "git",
     "url": "git@github.com:marcelocanales/ng-knife.git"
   },
   "author": "Marcelo Canales",
+  "license": "MIT",
   "keywords": [
     "angular",
     "utility",
